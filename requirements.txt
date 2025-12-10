@@ -17,3 +17,5 @@ langchain_groq
 fastapi
 uvicorn
 langserve
+pydantic>=2.0
+numpy
